@@ -9,3 +9,9 @@ Skin cancer is among the most common and deadly cancers, marked by rapid, uncont
 The data that is used in the project consists of nine types of skin cancer typically Actinic Keratosis, Basal Cell Carcinoma, Dermatofibroma, Melanoma, Nevus, Pigmented Benign Keratosis, Seborrheic Keratosis, Squamous Cell Carcinoma, and Vascular Lesion
 
 The dataset can be downloaded here : [Download here](https://challenge.isic-archive.com/data/)
+
+To install all the requirements packges run
+
+```bash
+pip install -r requirements.txt
+```
