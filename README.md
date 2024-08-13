@@ -10,7 +10,7 @@ The data that is used in the project consists of nine types of skin cancer typic
 
 The dataset can be downloaded here : [Download here](https://challenge.isic-archive.com/data/)
 
-To install all the requirements packges run
+To install all the requirements packages run
 
 ```bash
 pip install -r requirements.txt
